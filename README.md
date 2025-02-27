@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# Skill Bridge Major Project
