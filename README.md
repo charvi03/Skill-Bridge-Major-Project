@@ -51,7 +51,7 @@ as user management and course management pages.
 Clone the project
 
 ```bash
-  git clone https://github.com/Deepanshu-Sehgal/StudyNotion-MERN-Mega_Project.git
+  git clone https://github.com/charvi03/Skill-Bridge-Major-Project.git
 ```
 
 Go to the project directory
